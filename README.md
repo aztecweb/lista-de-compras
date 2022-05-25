@@ -20,6 +20,9 @@ habilidades de desenvolvimento tanto habilidades técnicas e de gestão e proces
 
 ## Como contribuir
 
+Para contribuir voce pode abrir uma ISSUE fazendo uma sugestão de alteração, correção e ou atualização e melhorias para o projeto.
+
+Caso queira contribuir diretamente na construção do código, você pode fazer um fork do projeto e atualizar o código e submeter sua pull request.
 
 ## Time ou pessoas que colaboraram e estão envolvidas no projeto
 
