@@ -24,8 +24,24 @@ Para contribuir voce pode abrir uma ISSUE fazendo uma sugestão de alteração, 
 
 Caso queira contribuir diretamente na construção do código, você pode fazer um fork do projeto e atualizar o código e submeter sua pull request.
 
-## Time ou pessoas que colaboraram e estão envolvidas no projeto
+## Time e pessoas que colaboraram e estão envolvidas no projeto
 
+DESENVOLVEDORES DA COMUNIDADE:
+
+[<img src="https://avatars.githubusercontent.com/u/81881279?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/aldair-meneses) |
+| :---: |
+
+[<img src="https://avatars.githubusercontent.com/u/88408608?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/marlonpedro) |
+| :---: |
+
+[<img src="https://avatars.githubusercontent.com/u/22747307?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/mateusrovedaa) |
+| :---: |
+
+[<img src="https://avatars.githubusercontent.com/u/6350505?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/mblithium) |
+| :---: |
+
+[<img src="https://avatars.githubusercontent.com/u/87045821?v=4" width=115 > <br> <sub> Marcos Vilela </sub>](https://github.com/marcosvile) |
+| :---: |
 
 ## Licença
 
