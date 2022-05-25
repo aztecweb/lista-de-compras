@@ -1,4 +1,4 @@
-# LISTA DE COMPRAS - At List
+# LISTA DE COMPRAS - Na Lista
 
 Aplicação construída pela Comunidade da Formação Aztec.
 
