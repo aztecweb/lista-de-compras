@@ -45,6 +45,9 @@ DESENVOLVEDORES DA COMUNIDADE:
 [<img src="https://avatars.githubusercontent.com/u/87131266?v=4" width=115 > <br> <sub> João Pedro </sub>](https://github.com/JoaoPedro-Sampaio) |
 | :---: |
 
+[<img src="https://avatars.githubusercontent.com/u/105328695?v=4" width=115 > <br> <sub> Raisa Sampaio </sub>](https://github.com/RaisaSampaio) |
+| :---: |
+
 ## Licença
 
 
