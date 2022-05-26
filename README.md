@@ -37,7 +37,7 @@ DESENVOLVEDORES DA COMUNIDADE:
 [<img src="https://avatars.githubusercontent.com/u/22747307?v=4" width=115 > <br> <sub> Mateus Roveda </sub>](https://github.com/mateusrovedaa) |
 | :---: |
 
-[<img src="https://avatars.githubusercontent.com/u/6350505?v=4" width=115 > <br> <sub> Mateus </sub>](https://github.com/mblithium) |
+[<img src="https://avatars.githubusercontent.com/u/6350505?v=4" width=115 > <br> <sub> Matheus Bastos </sub>](https://github.com/mblithium) |
 | :---: |
 
 [<img src="https://avatars.githubusercontent.com/u/87045821?v=4" width=115 > <br> <sub> Marcos Vilela </sub>](https://github.com/marcosvile) |
