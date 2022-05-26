@@ -28,25 +28,25 @@ Caso queira contribuir diretamente na construção do código, você pode fazer 
 DESENVOLVEDORES DA COMUNIDADE:
 
 [<img src="https://avatars.githubusercontent.com/u/81881279?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/aldair-meneses) |
-| :---: |
+| :-------: |
 
 [<img src="https://avatars.githubusercontent.com/u/88408608?v=4" width=115 > <br> <sub> Marlon Pedro </sub>](https://github.com/marlonpedro) |
-| :---: |
+| :-------: |
 
 [<img src="https://avatars.githubusercontent.com/u/22747307?v=4" width=115 > <br> <sub> Mateus Roveda </sub>](https://github.com/mateusrovedaa) |
-| :---: |
+| :-------: |
 
 [<img src="https://avatars.githubusercontent.com/u/6350505?v=4" width=115 > <br> <sub> Matheus Bastos </sub>](https://github.com/mblithium) |
-| :---: |
+| :-------: |
 
 [<img src="https://avatars.githubusercontent.com/u/87045821?v=4" width=115 > <br> <sub> Marcos Vilela </sub>](https://github.com/marcosvile) |
-| :---: |
+| :------: |
 
 [<img src="https://avatars.githubusercontent.com/u/87131266?v=4" width=115 > <br> <sub> João Pedro </sub>](https://github.com/JoaoPedro-Sampaio) |
-| :---: |
+| :------: |
 
 [<img src="https://avatars.githubusercontent.com/u/105328695?v=4" width=115 > <br> <sub> Raisa Sampaio </sub>](https://github.com/RaisaSampaio) |
-| :---: |
+| :------: |
 
 ## Licença
 
