@@ -4,9 +4,8 @@ Aplicação construída pela Comunidade da Formação Aztec.
 
 ## O que é o projeto
 
-O projeto é uma iniciativa da comunidade de formação Aztec, que visa uma mentoria e desenvolvimento coletiva e gratuita, um trabalho em conjunto
-de todos os participantes para um desenvolvimento comunitário e união de várias habilidades em um projeto com a finalidade de construção
-de uma aplicação de lista de compras.
+O projeto é uma iniciativa da comunidade de formação Aztec, que visa uma mentoria e desenvolvimento coletiva e gratuita dos participantes,
+um trabalho colaborativo para o desenvolvimento de uma aplicação de lista de compras.
 
 
 ## Qual o objetivo
@@ -20,7 +19,7 @@ habilidades de desenvolvimento tanto habilidades técnicas e de gestão e proces
 
 ## Como contribuir
 
-Para contribuir voce pode abrir uma ISSUE fazendo uma sugestão de alteração, correção e ou atualização e melhorias para o projeto.
+Para contribuir voce pode abrir ou comentar uma ISSUE fazendo uma sugestão de alteração, correção, atualização e melhorias para o projeto.
 
 Caso queira contribuir diretamente na construção do código, você pode fazer um fork do projeto e atualizar o código e submeter sua pull request.
 
@@ -54,6 +53,10 @@ DESENVOLVEDORES DA COMUNIDADE:
 
 ## Referências
 
+https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip
 
+https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
+
+https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
 Em construção...
