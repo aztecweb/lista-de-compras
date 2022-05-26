@@ -31,13 +31,13 @@ DESENVOLVEDORES DA COMUNIDADE:
 [<img src="https://avatars.githubusercontent.com/u/81881279?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/aldair-meneses) |
 | :---: |
 
-[<img src="https://avatars.githubusercontent.com/u/88408608?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/marlonpedro) |
+[<img src="https://avatars.githubusercontent.com/u/88408608?v=4" width=115 > <br> <sub> Marlon Pedro </sub>](https://github.com/marlonpedro) |
 | :---: |
 
-[<img src="https://avatars.githubusercontent.com/u/22747307?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/mateusrovedaa) |
+[<img src="https://avatars.githubusercontent.com/u/22747307?v=4" width=115 > <br> <sub> Mateus Roveda </sub>](https://github.com/mateusrovedaa) |
 | :---: |
 
-[<img src="https://avatars.githubusercontent.com/u/6350505?v=4" width=115 > <br> <sub> Aldair Meneses </sub>](https://github.com/mblithium) |
+[<img src="https://avatars.githubusercontent.com/u/6350505?v=4" width=115 > <br> <sub> Mateus </sub>](https://github.com/mblithium) |
 | :---: |
 
 [<img src="https://avatars.githubusercontent.com/u/87045821?v=4" width=115 > <br> <sub> Marcos Vilela </sub>](https://github.com/marcosvile) |
