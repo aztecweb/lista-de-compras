@@ -1,4 +1,4 @@
-# LISTA DE COMPRAS - Na Lista
+# LISTA DE COMPRAS
 
 Aplicação construída pela Comunidade da Formação Aztec.
 
