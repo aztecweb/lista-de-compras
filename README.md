@@ -37,7 +37,7 @@ width="100px"><br><b><sub>Marcos Vilela</sub></b></th>
 <th align="center"><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"><br><b><sub>Mateus Barbosa</sub></b></th>
 <th align="center"><a href="https://github.com/JoaoPedro-Sampaio"><img src="https://avatars.githubusercontent.com/u/87131266?v=4" width="100px"><br><b><sub>Joao Pedro</sub></b></th>
 <th align="center"><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"><br><b><sub>Raisa Sampaio</sub></b></th>
-<th align="center"><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"><br><b><sub>Raisa Sampaio</sub></b></th>
+<th align="center"><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"><br><b><sub>Eduardo Pittol</sub></b></th>
 </tr>
 </table>
 
@@ -59,6 +59,3 @@ https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
 Em construção...
 
-## Referências
-
-Em construção...
