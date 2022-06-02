@@ -41,12 +41,13 @@ width="100px"><br><b><sub>Marcos Vilela</sub></b></th>
 </tr>
 </table>
 
-## Licença
 
 ## FAQ
 
 ## Licença
 
+## Referências
+  
 https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip
 
 https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
