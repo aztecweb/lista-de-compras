@@ -42,5 +42,6 @@ Inicialmente a contribuição é apenas para participantes da formação Aztec. 
 </table>
 
 
-
+# Licença
+Estamos discutindo sobre a licença que será aplicada no projeto [nesta issue](https://github.com/aztecweb/lista-de-compras/issues/9 "clique para abrir a issue"), fique à vontade para contribuir.
 
