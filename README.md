@@ -62,4 +62,4 @@ https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
 
 https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
-Em construção...
+
