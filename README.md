@@ -62,6 +62,9 @@ https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zi
         
 https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
 
+        
+        Link dos artefatos de vetores e prototipagem do projeto no figma, para referenciais do projeto.
+
 https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
 
