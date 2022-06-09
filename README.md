@@ -40,14 +40,14 @@ width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"><br><b><sub></sub></b></th>
 </tr>
 <tr align="center">
-<td><b>Aldair Meneses</b></td>
-<td><b>Eduardo Pittol</b></td>
-<td><b>João Pedro</b></td>
-<td><b>Marcos Vilela</b></td>
-<td><b>Marlon Pedro</b></td>
-<td><b>Mateus Bastos</b></td>
-<td><b>Mateus Roveda</b></td>
-<td><b>Raisa Sampaio</b></td>
+<td><a href="https://github.com/aldair-meneses"><b>Aldair Meneses</b></td>
+<td><a href="https://github.com/edpittol"><b>Eduardo Pittol</b></td>
+<td><a href="https://github.com/JoaoPedro-Sampaio"><b>João Pedro</b></td>
+<td><a href="https://github.com/marcosvile"><b>Marcos Vilela</b></td>
+<td><a href="https://github.com/marlonpedro"><b>Marlon Pedro</b></td>
+<td><a href="https://github.com/mblithium"><b>Mateus Bastos</b></td>
+<td><a href="https://github.com/mateusrovedaa"><b>Mateus Roveda</b></td>
+<td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
 </tr>
 </table>
     
@@ -59,7 +59,7 @@ width="100px"><br><b><sub></sub></b></th>
 ## Referências
   
 https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip
-
+ 
 https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
 
 https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
