@@ -2,7 +2,7 @@
 **<p align="center">Lista de Compras</p>**
 
 <p align="center">
-     <a href="#o-que-é-o-projeto">O que é o projeto</a>  
+     <a href="#o-que-é-o-projeto">O que é o projeto?</a>  
 <br> <a href="#qual-o-objetivo">Qual o objetivo?</a>
 <br> <a href="#como-executar">Como executar</a>
 <br> <a href="#como-contribuir">Como contribuir</a>
@@ -16,13 +16,13 @@
 
 Aplicação desenvolvida pela Comunidade da Formação Aztec.
 
-## O que é o projeto
+## O que é o projeto?
 
 O projeto é uma iniciativa da comunidade de formação Aztec, que visa uma mentoria e desenvolvimento coletiva e gratuita dos participantes, um trabalho colaborativo para o desenvolvimento de uma aplicação de lista de compras.
 
 ## Qual o objetivo?
 
-Criar uma aplicação que gerencie listagem e organização de produtos. O projeto é uma forma de desenvolver habilidades técnicas, de gestão e processo.
+O objetivo consiste em desenvolver uma aplicação que gerencie a listagem e organização de produtos a serem adquiridos pelo usuário. O projeto é uma forma de desenvolver habilidades técnicas, de gestão e processo.
 
 ## Como executar
 
