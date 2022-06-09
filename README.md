@@ -2,13 +2,12 @@
 
 Aplicação construída pela Comunidade da Formação Aztec.
 
-## O que é o projeto
-
+## Sobre o projeto
 O projeto é uma iniciativa da comunidade de formação Aztec, que visa uma mentoria e desenvolvimento coletiva e gratuita dos participantes,
 um trabalho colaborativo para o desenvolvimento de uma aplicação de lista de compras.
 
 
-## Qual o objetivo
+## O objetivo
 
 Criar uma aplicação que gerencie uma listagem de produtos e organização de itens. O projeto é uma forma de desenvolver nossas
 habilidades de desenvolvimento tanto habilidades técnicas e de gestão e processo.
@@ -18,10 +17,7 @@ habilidades de desenvolvimento tanto habilidades técnicas e de gestão e proces
 O projeto encontra-se no início de suas atribuições. Com definições de ISSUES e avaliação de processos.
 
 
-## Como executar
-
-
-## Como contribuir
+## Como contribuir?
 
 Para contribuir voce pode abrir ou comentar uma ISSUE fazendo uma sugestão de alteração, correção, atualização e melhorias para o projeto.
 
@@ -58,5 +54,3 @@ https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
 
 https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
-
-Em construção...
