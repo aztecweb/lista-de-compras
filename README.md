@@ -2,14 +2,14 @@
 **<p align="center">Lista de Compras</p>**
 
 <p align="center">
-     <a href="o-que-é-o-projeto">O que é o projeto</a>  
-<br> <a href="qual-o-objetivo">Qual o objetivo?</a>
-<br> <a href="como-executar">Como executar</a>
-<br> <a href="como-contribuir">Como contribuir</a>
-<br> <a href="nosso-time">Nosso time</a>
-<br> <a href="licença">Licença</a>
-<br> <a href="faq">FAQ</a>
-<br> <a href="referências">Referências</a> 
+     <a href="#o-que-é-o-projeto">O que é o projeto</a>  
+<br> <a href="#qual-o-objetivo">Qual o objetivo?</a>
+<br> <a href="#como-executar">Como executar</a>
+<br> <a href="#como-contribuir">Como contribuir</a>
+<br> <a href="#nosso-time">Nosso time</a>
+<br> <a href="#licença">Licença</a>
+<br> <a href="#faq">FAQ</a>
+<br> <a href="#referências">Referências</a> 
 </p>
    
 # LISTA DE COMPRAS
@@ -47,6 +47,8 @@ DESENVOLVEDORES DA COMUNIDADE:
  </table>
  
 ## Licença
+
+O projeto Lista de Compras é licenciado pelo GPLv3.
 
 ## FAQ
 
