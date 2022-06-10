@@ -1,28 +1,32 @@
 
-
 <h1 align="center"> LISTA DE COMPRAS</h1>
 
 <p align="center">Aplicação construída pela Comunidade da Formação Aztec.</p>
 
-* [O que é o projeto](#o-que-é-o-projeto)<br>
-* [Qual o objetivo](#qual-o-objetivo)<br>
-* [Como contribuir](#como-contribuir)<br>
+* [Sobre o projeto](#sobre-o-projeto)<br>
+* [O objetivo](#o-objetivo)<br>
+* [Fase atual do projeto](#fase-atual-do-projeto)<br>
+* [Como contribuir?](#como-contribuir)<br>
 * [Nosso time](#nosso-time) <br>
 * [Referências](#referências)<br>
 
 
-## O que é o projeto
+## Sobre o projeto
 
 O projeto é uma iniciativa da comunidade de formação Aztec, que visa uma mentoria e desenvolvimento coletiva e gratuita dos participantes,
 um trabalho colaborativo para o desenvolvimento de uma aplicação de lista de compras.
 
 
-## Qual o objetivo
+## O objetivo
 
 Criar uma aplicação que gerencie uma listagem de produtos e organização de itens. O projeto é uma forma de desenvolver nossas
 habilidades de desenvolvimento tanto habilidades técnicas e de gestão e processo.
 
-## Como contribuir
+## Fase atual do projeto
+O projeto encontra-se no início de suas atribuições. Com definições de ISSUES e avaliação de processos.
+
+
+## Como contribuir?
 
 Para contribuir voce pode abrir ou comentar uma ISSUE fazendo uma sugestão de alteração, correção, atualização e melhorias para o projeto.
 
@@ -62,6 +66,3 @@ DESENVOLVEDORES DA COMUNIDADE:
 * [Link para download dos artefatos](https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip)
 * [Figma](https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1)
 
-
-
-	
