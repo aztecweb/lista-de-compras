@@ -48,7 +48,7 @@ DESENVOLVEDORES DA COMUNIDADE:
  
 ## Licença
 
-O projeto Lista de Compras é licenciado pelo GPLv3.
+O projeto é licenciado pelo GPLv3.
 
 ## FAQ
 
