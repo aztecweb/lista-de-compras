@@ -1,6 +1,6 @@
 
 
-**<p align="center">LISTA DE COMPRAS</p>**
+<h1 align="center"> LISTA DE COMPRAS</h1>
 
 <p align="center">Aplicação construída pela Comunidade da Formação Aztec.</p>
 
