@@ -72,7 +72,7 @@ https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zi
 
 Link para donwnload dos artefatos iniciais do projeto, para direcionamento da criação de UI/UX da plataforma e referências de design.
         
-### Protoripagem no Figma
+### Prototipagem no Figma
  
 https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
 
