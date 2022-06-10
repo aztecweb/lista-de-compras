@@ -58,14 +58,14 @@ DESENVOLVEDORES DA COMUNIDADE:
 
 ## ARTEFATOS INICIAIS DO PROJETO
 
- [Projeto base] (https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip)
+ [Projeto base](https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip)
 
     Link para donwnload dos artefatos iniciais do projeto, para direcionamento da criação de UI/UX
     da plataforma e referências de desing.
         
 ## PROTOTIPAGEM NO FIGMA
  
-[Link para download dos artefatos] (https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?)node-id=0%3A1
+[Link para download dos artefatos](https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?)node-id=0%3A1
 
         
     Link dos artefatos de vetores e prototipagem do projeto no figma, para referenciais do projeto.
