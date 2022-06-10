@@ -58,21 +58,21 @@ DESENVOLVEDORES DA COMUNIDADE:
 
 ## ARTEFATOS INICIAIS DO PROJETO
 
-https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip
+ [Projeto base] (https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip)
 
     Link para donwnload dos artefatos iniciais do projeto, para direcionamento da criação de UI/UX
     da plataforma e referências de desing.
         
 ## PROTOTIPAGEM NO FIGMA
  
-https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
+[Link para download dos artefatos] (https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?)node-id=0%3A1
 
         
     Link dos artefatos de vetores e prototipagem do projeto no figma, para referenciais do projeto.
 
 ## VISÃO GERAL DO DESAFIO
 
-https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
+[Figma](https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x)
 
     O devchallens.io é um site para desenvolvedores melhorarem suas habilidades através de desafios
     de front-end, back-end e mobile. O link do desafio contém a proposta de criação de uma aplicação
