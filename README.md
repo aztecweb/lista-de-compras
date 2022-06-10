@@ -1,29 +1,37 @@
-# LISTA DE COMPRAS
+<h1 align="center"> LISTA DE COMPRAS</h1>
 
-Aplicação construída pela Comunidade da Formação Aztec.
+<p align="center">Aplicação construída pela Comunidade da Formação Aztec.</p>
 
-## O que é o projeto
+* [Sobre o projeto](#sobre-o-projeto)<br>
+* [O objetivo](#o-objetivo)<br>
+* [Fase atual do projeto](#fase-atual-do-projeto)<br>
+* [Como contribuir?](#como-contribuir)<br>
+* [Nosso time](#nosso-time) <br>
+* [Referências](#referências)<br>
+
+
+## Sobre o projeto
 
 O projeto é uma iniciativa da comunidade de formação Aztec, que visa uma mentoria e desenvolvimento coletiva e gratuita dos participantes,
 um trabalho colaborativo para o desenvolvimento de uma aplicação de lista de compras.
 
 
-## Qual o objetivo
+## O objetivo
 
 Criar uma aplicação que gerencie uma listagem de produtos e organização de itens. O projeto é uma forma de desenvolver nossas
 habilidades de desenvolvimento tanto habilidades técnicas e de gestão e processo.
 
+## Fase atual do projeto
+O projeto encontra-se no início de suas atribuições. Com definições de ISSUES e avaliação de processos.
 
-## Como executar
 
-
-## Como contribuir
+## Como contribuir?
 
 Para contribuir voce pode abrir ou comentar uma ISSUE fazendo uma sugestão de alteração, correção, atualização e melhorias para o projeto.
 
 Caso queira contribuir diretamente na construção do código, você pode fazer um fork do projeto e atualizar o código e submeter sua pull request.
 
-## Time e pessoas que colaboraram e estão envolvidas no projeto
+## Nosso time
 
 DESENVOLVEDORES DA COMUNIDADE:
 
@@ -50,19 +58,11 @@ width="100px"><br><b><sub></sub></b></th>
 <td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
 </tr>
 </table>
-    
 
-## FAQ
-
-## Licença
 
 ## Referências
-  
-https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip
- 
-https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1
 
-https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
-
-Em construção...
+* [Projeto base](https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x)
+* [Link para download dos artefatos](https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip)
+* [Figma](https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1)
 
