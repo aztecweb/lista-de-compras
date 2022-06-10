@@ -60,7 +60,7 @@ width="100px"><br><b><sub></sub></b></th>
 </tr>
 </table>
 
-# Licença
+## Licença
 
 Estamos discutindo sobre a licença que será aplicada no projeto [nesta issue](https://github.com/aztecweb/lista-de-compras/issues/9 "clique para abrir a issue"), fique à vontade para contribuir.
 
