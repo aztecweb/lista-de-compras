@@ -82,4 +82,4 @@ Link dos artefatos de vetores e prototipagem do projeto no figma, para referenci
 
 https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
-O devchallenges.io é um site para desenvolvedores melhorarem suas habilidades através de desafios de front-end, back-end e mobile. O link do desafio    contém a proposta de criação de uma aplicação Lista de Compras, o endereço contém um referencial do projeto, onde tem uma visão geral do desafio    proposto, explicações de como começar e sugestões de como prosseguir, além de pequenas regras de execução do desafio.
+O devchallenges.io é um site para desenvolvedores melhorarem suas habilidades através de desafios de front-end, back-end e mobile. O link do desafio contém a proposta de criação de uma aplicação Lista de Compras, o endereço contém um referencial do projeto, onde tem uma visão geral do desafio proposto, explicações de como começar e sugestões de como prosseguir, além de pequenas regras de execução do desafio.
