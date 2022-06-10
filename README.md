@@ -6,7 +6,8 @@
 * [O objetivo](#o-objetivo)<br>
 * [Fase atual do projeto](#fase-atual-do-projeto)<br>
 * [Como contribuir?](#como-contribuir)<br>
-* [Nosso time](#nosso-time) <br>
+* [Nosso time](#nosso-time)<br>
+* [Licença](#licença)<br>
 * [Referências](#referências)<br>
 
 
@@ -59,10 +60,12 @@ width="100px"><br><b><sub></sub></b></th>
 </tr>
 </table>
 
+# Licença
+
+Estamos discutindo sobre a licença que será aplicada no projeto [nesta issue](https://github.com/aztecweb/lista-de-compras/issues/9 "clique para abrir a issue"), fique à vontade para contribuir.
 
 ## Referências
 
 * [Projeto base](https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x)
 * [Link para download dos artefatos](https://github.com/aztecweb/lista-de-compras/files/8665861/shoppingify-master.zip)
 * [Figma](https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List?node-id=0%3A1)
-
