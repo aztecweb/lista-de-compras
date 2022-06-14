@@ -25,7 +25,6 @@ habilidades de desenvolvimento tanto habilidades técnicas e de gestão e proces
 ## Fase atual do projeto
 O projeto encontra-se no início de suas atribuições. Com definições de ISSUES e avaliação de processos.
 
-
 ## Como contribuir?
 
 Para contribuir voce pode abrir ou comentar uma ISSUE fazendo uma sugestão de alteração, correção, atualização e melhorias para o projeto.
