@@ -61,7 +61,7 @@ width="100px"><br><b><sub></sub></b></th>
 
 ## Licença
 
-Estamos discutindo sobre a licença que será aplicada no projeto [nesta issue](https://github.com/aztecweb/lista-de-compras/issues/9 "clique para abrir a issue"), fique à vontade para contribuir.
+[GPLv3](https://github.com/aztecweb/lista-de-compras/blob/3496cf144127b6d6ba7d3dfb5293c3b3b38ee0d1/LICENSE)
 
 ## Referências
 
