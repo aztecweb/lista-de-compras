@@ -46,6 +46,7 @@ width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/mateusrovedaa"><img src="https://avatars.githubusercontent.com/u/22747307?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"><br><b><sub></sub></b></th>
+<th><a href="https://github.com/IgorVinoski"><img src="https://avatars.githubusercontent.com/u/62020437?v=4" width="100px"><br><b><sub></sub></b></th>
 </tr>
 <tr align="center">
 <td><a href="https://github.com/aldair-meneses"><b>Aldair Meneses</b></td>
@@ -56,6 +57,8 @@ width="100px"><br><b><sub></sub></b></th>
 <td><a href="https://github.com/mblithium"><b>Mateus Bastos</b></td>
 <td><a href="https://github.com/mateusrovedaa"><b>Mateus Roveda</b></td>
 <td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
+<td><a href="https://github.com/IgorVinoski"><b>Igor Vinoski</b></td>
+
 </tr>
 </table>
 
