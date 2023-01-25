@@ -23,7 +23,44 @@ Criar uma aplicação que gerencie uma listagem de produtos e organização de i
 habilidades de desenvolvimento tanto habilidades técnicas e de gestão e processo.
 
 ## Fase atual do projeto
+
 O projeto encontra-se no início de suas atribuições. Com definições de ISSUES e avaliação de processos.
+
+## Como executar
+
+Algumas dependências são necessárias para o funcionamento, são elas:
+
+- NodeJS
+- Yarn
+
+
+### Instalação
+**Siga os passos abaixo para instalar e executar o projeto:**
+
+```bash
+# Faz o clone do repositório remoto para o local.
+git clone https://github.com/aztecweb/lista-de-compras.git
+
+# Entra no diretório que foi clonado
+cd lista-de-compras
+
+# Executa a instalação das dependências do node_modules.
+yarn
+```
+
+### Execução
+
+Executa o projeto em modo de desenvolvimento
+```bash
+# Executar o projeto
+yarn dev
+```
+
+Executa o storybook
+```bash
+# Executar o storybook do projeto
+yarn storybook
+```
 
 ## Como contribuir?
 
