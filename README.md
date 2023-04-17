@@ -23,7 +23,44 @@ Criar uma aplicação que gerencie uma listagem de produtos e organização de i
 habilidades de desenvolvimento tanto habilidades técnicas e de gestão e processo.
 
 ## Fase atual do projeto
+
 O projeto encontra-se no início de suas atribuições. Com definições de ISSUES e avaliação de processos.
+
+## Como executar
+
+Algumas dependências são necessárias para o funcionamento, são elas:
+
+- NodeJS
+- Yarn
+
+
+### Instalação
+**Siga os passos abaixo para instalar e executar o projeto:**
+
+```bash
+# Faz o clone do repositório remoto para o local.
+git clone https://github.com/aztecweb/lista-de-compras.git
+
+# Entra no diretório que foi clonado
+cd lista-de-compras
+
+# Executa a instalação das dependências do node_modules.
+yarn
+```
+
+### Execução
+
+Executa o projeto em modo de desenvolvimento
+```bash
+# Executar o projeto
+yarn dev
+```
+
+Executa o storybook
+```bash
+# Executar o storybook do projeto
+yarn storybook
+```
 
 ## Como contribuir?
 
@@ -36,27 +73,26 @@ Caso queira contribuir diretamente na construção do código, você pode fazer 
 DESENVOLVEDORES DA COMUNIDADE:
 
 <table align="center">
-<tr>
-<th><a href="https://github.com/aldair-meneses"><img src="https://avatars.githubusercontent.com/u/81881279?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/JoaoPedro-Sampaio"><img src="https://avatars.githubusercontent.com/u/87131266?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/marcosvile"><img src="https://avatars.githubusercontent.com/u/87045821?v=4"
-width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/marlonpedro"><img src="https://avatars.githubusercontent.com/u/88408608?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/mateusrovedaa"><img src="https://avatars.githubusercontent.com/u/22747307?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"><br><b><sub></sub></b></th>
-</tr>
-<tr align="center">
-<td><a href="https://github.com/aldair-meneses"><b>Aldair Meneses</b></td>
-<td><a href="https://github.com/edpittol"><b>Eduardo Pittol</b></td>
-<td><a href="https://github.com/JoaoPedro-Sampaio"><b>João Pedro</b></td>
-<td><a href="https://github.com/marcosvile"><b>Marcos Vilela</b></td>
-<td><a href="https://github.com/marlonpedro"><b>Marlon Pedro</b></td>
-<td><a href="https://github.com/mblithium"><b>Mateus Bastos</b></td>
-<td><a href="https://github.com/mateusrovedaa"><b>Mateus Roveda</b></td>
-<td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
-</tr>
+    <tr>
+        <th><a href="https://github.com/aldair-meneses"><img src="https://avatars.githubusercontent.com/u/81881279?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/JoaoPedro-Sampaio"><img src="https://avatars.githubusercontent.com/u/87131266?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/marcosvile"><img src="https://avatars.githubusercontent.com/u/87045821?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/marlonpedro"><img src="https://avatars.githubusercontent.com/u/88408608?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/mateusrovedaa"><img src="https://avatars.githubusercontent.com/u/22747307?v=4" width="100px"></a><br></th>
+        <th><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"></a><br></th>
+    </tr>
+    <tr align="center">
+        <td><a href="https://github.com/aldair-meneses"><strong>Aldair Meneses</strong></a></td>
+        <td><a href="https://github.com/edpittol"><strong>Eduardo Pittol</strong></a></td>
+        <td><a href="https://github.com/JoaoPedro-Sampaio"><strong>João Pedro</strong></a></td>
+        <td><a href="https://github.com/marcosvile"><strong>Marcos Vilela</strong></a></td>
+        <td><a href="https://github.com/marlonpedro"><strong>Marlon Pedro</strong></a></td>
+        <td><a href="https://github.com/mblithium"><strong>Mateus Bastos</strong></a></td>
+        <td><a href="https://github.com/mateusrovedaa"><strong>Mateus Roveda</strong></a></td>
+        <td><a href="https://github.com/raisaSampaio"><strong>Raisa Sampaio</strong></a></td>
+    </tr>
 </table>
 
 ## Licença
