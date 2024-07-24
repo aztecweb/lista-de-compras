@@ -1,0 +1,21 @@
+name: Discussão de Ideias
+description: Discutir questões relacionadas ao projeto.
+title: "[Discussão]: "
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: Descrever a questão
+      placeholder: "Descreva sua questão para discussão aqui..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo
+      description: Qual é o objetivo desta discussão?
+      placeholder: "Descreva aqui os objetivos..."
+    validations:
+      required: true
