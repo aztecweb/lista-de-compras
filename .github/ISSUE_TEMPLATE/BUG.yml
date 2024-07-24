@@ -1,6 +1,7 @@
 name: Reportar bugs
 description: Reportar comportamentos inesperados no projeto.
 title: "[Bug]: "
+labels: ["bug"]
 body:
   - type: textarea
     id: descricao
