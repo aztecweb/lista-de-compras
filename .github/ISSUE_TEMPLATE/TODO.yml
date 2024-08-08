@@ -20,7 +20,7 @@ body:
       placeholder: "- [ ] - procurar ícones dos produtos coerentes que hamonizem com a interface, tomando cuidado com as licenças;\n- [ ] -  ajustar os tamanhos e otimizar para web;\n- [ ] - adicionar ao projeto e testar;\n- [ ] - fazer um pull request com as alterações e marcar @mantenedor."
       value: "- [ ] - Passo 1;\n- [ ] - Passo 2;\n"
     validations:
-      required: true
+      required: false
   
   - type: textarea
     id: validacao
