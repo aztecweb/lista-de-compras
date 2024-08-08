@@ -1,0 +1,33 @@
+name: Tarefa a ser realizada
+description: Descreva uma tarefa a ser realizada e marque os participantes.
+title: "[TAREFA]: "
+labels: ["TODO"]
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: O que precisa ser feito?
+      placeholder: Criar um banner com uma torradeira com óculos escuro e bem maneira. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos
+      description: Quais são os passos que serão realizados? (Opcional)
+      placeholder: "- [ ] - procurar ícones dos produtos coerentes que hamonizem com a interface, tomando cuidado com as licenças;\n- [ ] -  ajustar os tamanhos e otimizar para web;\n- [ ] - adicionar ao projeto e testar;\n- [ ] - fazer um pull request com as alterações e marcar @mantenedor."
+      value: "- [ ] - Passo 1;\n- [ ] - Passo 2;\n"
+    validations:
+      required: true
+  
+  - type: textarea
+    id: validacao
+    attributes:
+      label: Validação
+      description: Condições para a tarefa ser considerada concluída.
+      placeholder: "Por exemplo:\n- [ ] - O ícone do botão de criar nova postagem aparece;\n- [ ] - Ao clicar no botão, abre o popup de criação de postagens;\n- [ ] - Ao clicar em criar, uma postagem é criada."
+      value: "- [ ] - Condição 1;\n- [ ] - Condição 2;\n"
+    validations:
+      required: true
