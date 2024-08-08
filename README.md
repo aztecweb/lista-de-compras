@@ -38,10 +38,10 @@ DESENVOLVEDORES DA COMUNIDADE:
 <table align="center">
 <tr>
 <th><a href="https://github.com/aldair-meneses"><img src="https://avatars.githubusercontent.com/u/81881279?v=4" width="100px"><br><b><sub></sub></b></th>
+<th><a href="https://github.com/devartes"><img src="https://avatars.githubusercontent.com/u/76822093?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/JoaoPedro-Sampaio"><img src="https://avatars.githubusercontent.com/u/87131266?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/marcosvile"><img src="https://avatars.githubusercontent.com/u/87045821?v=4"
-width="100px"><br><b><sub></sub></b></th>
+<th><a href="https://github.com/marcosvile"><img src="https://avatars.githubusercontent.com/u/87045821?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/marlonpedro"><img src="https://avatars.githubusercontent.com/u/88408608?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"><br><b><sub></sub></b></th>
 <th><a href="https://github.com/mateusrovedaa"><img src="https://avatars.githubusercontent.com/u/22747307?v=4" width="100px"><br><b><sub></sub></b></th>
@@ -49,6 +49,7 @@ width="100px"><br><b><sub></sub></b></th>
 </tr>
 <tr align="center">
 <td><a href="https://github.com/aldair-meneses"><b>Aldair Meneses</b></td>
+<td><a href="https://github.com/devartes"><b>Ana Carolina</b></td>
 <td><a href="https://github.com/edpittol"><b>Eduardo Pittol</b></td>
 <td><a href="https://github.com/JoaoPedro-Sampaio"><b>João Pedro</b></td>
 <td><a href="https://github.com/marcosvile"><b>Marcos Vilela</b></td>
@@ -73,6 +74,6 @@ Link para donwnload dos artefatos iniciais do projeto, para direcionamento da cr
 
 Link dos artefatos de vetores e prototipagem do projeto no figma, para referenciais do projeto.
 
-### [Visão Geral do Desafio](https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x)
+### [Visão Geral do Desafio](https://legacy.devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x)
 
 O devchallenges.io é um site para desenvolvedores melhorarem suas habilidades através de desafios de front-end, back-end e mobile. O link do desafio contém a proposta de criação de uma aplicação Lista de Compras, o endereço contém um referencial do projeto, onde tem uma visão geral do desafio proposto, explicações de como começar e sugestões de como prosseguir, além de pequenas regras de execução do desafio.
