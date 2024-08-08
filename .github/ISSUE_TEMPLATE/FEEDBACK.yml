@@ -1,0 +1,21 @@
+name: Feedback do projeto
+description: Enviar feedback sobre os recursos do projeto.
+title: "[Sugestão]: "
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: Descrever a sua sugestão
+      placeholder: "Por exemplo: Achei difícil e meio esquisito ter que ir ao canto superior esquerdo para abrir um menu, poderia estar no canto superior direito no header."
+    validations:
+      required: true
+
+  - type: textarea
+    id: recurso
+    attributes:
+      label: Recurso
+      description: Seu feedback é sobre qual recurso do projeto?
+      placeholder: "Por exemplo: menu hambúrguer do header."
+    validations:
+      required: true
