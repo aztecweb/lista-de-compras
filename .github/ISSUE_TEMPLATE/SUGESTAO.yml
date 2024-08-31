@@ -1,0 +1,30 @@
+name: Sugestões para o projeto
+description: Discutir sugestões relacionadas ao projeto.
+title: "[Sugestão]: "
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: Descrever a sua sugestão
+      placeholder: "Por exemplo: Preciso de uma opção nas configurações para o usuário habilitar um tema escuro da interface."
+    validations:
+      required: true
+
+  - type: textarea
+    id: onde
+    attributes:
+      label: Onde
+      description: Em qual lugar isso se aplica?
+      placeholder: "Por exemplo: Em toda a aplicação."
+    validations:
+      required: true
+  
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Motivo
+      description: Por que devemos implementar esta sugestão?
+      placeholder: "Por exemplo: Acredito que seja interessante ter essa opção, para quem estiver a ver de noite e evitar de queimar os olhos."
+    validations:
+      required: true
