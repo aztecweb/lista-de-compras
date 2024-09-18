@@ -54,7 +54,7 @@ DESENVOLVEDORES DA COMUNIDADE:
 <td><a href="https://github.com/JoaoPedro-Sampaio"><b>João Pedro</b></td>
 <td><a href="https://github.com/marcosvile"><b>Marcos Vilela</b></td>
 <td><a href="https://github.com/marlonpedro"><b>Marlon Pedro</b></td>
-<td><a href="https://github.com/mblithium"><b>Mateus Bastos</b></td>
+<td><a href="https://github.com/mblithium"><b>Matheus Bastos</b></td>
 <td><a href="https://github.com/mateusrovedaa"><b>Mateus Roveda</b></td>
 <td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
 </tr>
